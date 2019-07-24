@@ -1,3 +1,11 @@
+# Editor settings
 .DS_Store
+
+# Dependencies
 node_modules
+
+# Build
 public/bundle.*
+
+# Firebase cache
+.firebase/
